@@ -1,0 +1,8 @@
+We will create a python environment for each project.
+
+Run the following command to create the python env:
+    
+    python3 -m venv venv
+
+
+

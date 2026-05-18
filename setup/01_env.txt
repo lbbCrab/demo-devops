@@ -5,4 +5,7 @@ Run the following command to create the python env:
     python3 -m venv venv
 
 
+Use the following code to activate the env:
+    source venv/bin/activate
+
 

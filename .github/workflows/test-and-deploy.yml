@@ -22,4 +22,4 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest test_calculator.py
+          pytest unit-test_math_tool.py
